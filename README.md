@@ -31,7 +31,6 @@ The purpose of this analysis is to create a binary classifier that is capable of
   - In the optimized neural network, there were three hidden layers: the first with 80 neurons, the second with 50 neurons, and the third with 30 neurons. The activation function for the three hidden layers was the "tanh" function. The output layer activation function was the "sigmoid" function.
   ![Standard Neural Network Setup](https://github.com/mschimmy/Neural_Network_Charity_Analysis/blob/main/Resources/Images/standard_neural_network_setup.png)
   <sub>Standard Neural Network Setup</sub>
-
   ![Optimized Neural Network Setup](https://github.com/mschimmy/Neural_Network_Charity_Analysis/blob/main/Resources/Images/optimized_neural_network_setup.png)
   <sub>Optimized Neural Network Setup</sub>
 
